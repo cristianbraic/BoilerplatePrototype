@@ -1,0 +1,10 @@
+G:\Fun\BoilerPlateBase\BoilerplatePrototype\BoilerplatePrototype\BoilerplatePrototype\bin\Debug\netcoreapp3.0\appsettings.Development.json
+G:\Fun\BoilerPlateBase\BoilerplatePrototype\BoilerplatePrototype\BoilerplatePrototype\bin\Debug\netcoreapp3.0\appsettings.json
+G:\Fun\BoilerPlateBase\BoilerplatePrototype\BoilerplatePrototype\BoilerplatePrototype\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+G:\Fun\BoilerPlateBase\BoilerplatePrototype\BoilerplatePrototype\BoilerplatePrototype\bin\Debug\netcoreapp3.0\BoilerplatePrototype.exe
+G:\Fun\BoilerPlateBase\BoilerplatePrototype\BoilerplatePrototype\BoilerplatePrototype\obj\Debug\netcoreapp3.0\BoilerplatePrototype.csprojAssemblyReference.cache
+G:\Fun\BoilerPlateBase\BoilerplatePrototype\BoilerplatePrototype\BoilerplatePrototype\obj\Debug\netcoreapp3.0\staticwebassets\BoilerplatePrototype.StaticWebAssets.Manifest.cache
+G:\Fun\BoilerPlateBase\BoilerplatePrototype\BoilerplatePrototype\BoilerplatePrototype\obj\Debug\netcoreapp3.0\staticwebassets\BoilerplatePrototype.StaticWebAssets.xml
+G:\Fun\BoilerPlateBase\BoilerplatePrototype\BoilerplatePrototype\BoilerplatePrototype\obj\Debug\netcoreapp3.0\BoilerplatePrototype.AssemblyInfoInputs.cache
+G:\Fun\BoilerPlateBase\BoilerplatePrototype\BoilerplatePrototype\BoilerplatePrototype\obj\Debug\netcoreapp3.0\BoilerplatePrototype.AssemblyInfo.cs
+G:\Fun\BoilerPlateBase\BoilerplatePrototype\BoilerplatePrototype\BoilerplatePrototype\obj\Debug\netcoreapp3.0\BoilerplatePrototype.RazorTargetAssemblyInfo.cache
